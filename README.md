@@ -1,1 +1,2 @@
-# github-scraper
+# discord-scraper
+Let's scrape some devious messages...
